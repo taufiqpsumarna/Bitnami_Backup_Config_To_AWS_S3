@@ -86,6 +86,6 @@ This project is licensed under the MIT License.
 
 <hr>
 
-## Credit
+## Credits
 
 **This Scripts Created By* [taufiqpsumarna](https://github.com/taufiqpsumarna)
