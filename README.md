@@ -1,3 +1,5 @@
+<img src =./IMG/mmconf_AWS_S3.png width=50%/><br>
+
 # Bitnami mattermost, nginx, and LetsEncrypt Backup Configuration to AWS S3
 This is a Bash script that performs a backup of bitnami three configurations (Mattermost, Nginx, and Let's Encrypt) and uploads them to an AWS S3 bucket.
 
